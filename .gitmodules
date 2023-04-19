@@ -1,0 +1,24 @@
+[submodule "ToDoList"]
+	path = ToDoList
+	url = https://github.com/One-Four-DoIt/ToDoList
+[submodule "To_Do_list"]
+	path = To_Do_list
+	url = https://github.com/Small-Precious-Software/To_Do_list.git
+[submodule "CodingGenius"]
+	path = CodingGenius
+	url = https://github.com/SMUCodingGenius/CodingGenius
+[submodule "sogongsogong"]
+	path = sogongsogong
+	url = https://github.com/pcochoco/sogongsogong
+[submodule "To-Do_list"]
+	path = To-Do_list
+	url = https://github.com/SMU-SoftwareEngineering-Eight/To-Do_list
+[submodule "teamproject"]
+	path = teamproject
+	url = https://github.com/SMUfervor/teamproject.git
+[submodule "Spec"]
+	path = Spec
+	url = https://github.com/SMsoftwearEngineering/Spec
+[submodule "webplaying"]
+	path = webplaying
+	url = https://github.com/chaerish/webplaying.git
